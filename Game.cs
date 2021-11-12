@@ -13,9 +13,7 @@ namespace Proyecto1
 {
     class Game : GameWindow
     {
-        Cubo cubo;
-        Techo techo;
-        Casa casa, casa1;
+       
         Cara cara;
         Objeto obj;
         Escenario esc;

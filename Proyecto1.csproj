@@ -56,16 +56,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cara.cs" />
-    <Compile Include="Casa.cs" />
-    <Compile Include="Cubo.cs" />
     <Compile Include="Escenario.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="IObjeto.cs" />
     <Compile Include="Objeto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Punto.cs" />
-    <Compile Include="techo.cs" />
+    <Compile Include="NewFolder1\Punto.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
