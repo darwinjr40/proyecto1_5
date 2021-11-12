@@ -1,0 +1,15 @@
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.dll
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.xml
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1\bin\Debug\Newtonsoft.Json.xml
