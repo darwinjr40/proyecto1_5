@@ -55,11 +55,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cara.cs" />
-    <Compile Include="Escenario.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="IObjeto.cs" />
-    <Compile Include="Objeto.cs" />
+    <Compile Include="Clases\Cara.cs" />
+    <Compile Include="Clases\Escenario.cs" />
+    <Compile Include="Clases\Game.cs" />
+    <Compile Include="Clases\IObjeto.cs" />
+    <Compile Include="Clases\Objeto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="NewFolder1\Punto.cs" />
