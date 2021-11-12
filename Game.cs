@@ -88,12 +88,6 @@ namespace Proyecto1
             GL.MatrixMode(MatrixMode.Modelview);
             //GL.Enable(EnableCap.DepthTest);
             //------------------------------------
-            
-            GL.Rotate(02, 1, 0, 0);
-            
-            //cara.Dibujar();
-            //casa.dibujar();
-            //obj.Dibujar();
             esc.Dibujar();
             
             //------------------------------------
